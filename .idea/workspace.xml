@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d126c94c-6271-43b2-bada-607922173e91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aDcmo7qUsknw8We7AW3SmkA3BC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Python.CardGame_War">
+    <configuration name="CardGame_War" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pictonary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django/part2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/part2/CardGame_War.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oop1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pictonary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django/part2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/part2/oop1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oop2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pictonary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django/part2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/part2/oop2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scope" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pictonary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django/part2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/part2/scope.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pictonary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django/part2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/part2/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CardGame_War" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.oop2" />
+        <item itemvalue="Python.oop1" />
+        <item itemvalue="Python.scope" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d126c94c-6271-43b2-bada-607922173e91" name="Default Changelist" comment="" />
+      <created>1586273766371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586273766371</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="335" y="37" key="#zifuchuan" timestamp="1586355868004">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="335" y="37" key="#zifuchuan/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586355868004" />
+    <state width="1180" height="466" key="DebuggerActiveHint" timestamp="1591122887201">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1180" height="466" key="DebuggerActiveHint/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591122887201" />
+    <state width="1398" height="411" key="GridCell.Tab.0.bottom" timestamp="1591124480094">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="411" key="GridCell.Tab.0.bottom/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591124480094" />
+    <state width="1238" height="245" key="GridCell.Tab.0.bottom/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586438899816" />
+    <state width="1259" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586310199928" />
+    <state width="1398" height="411" key="GridCell.Tab.0.center" timestamp="1591124480093">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="411" key="GridCell.Tab.0.center/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591124480093" />
+    <state width="1238" height="245" key="GridCell.Tab.0.center/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586438899815" />
+    <state width="1259" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586310199927" />
+    <state width="1398" height="411" key="GridCell.Tab.0.left" timestamp="1591124480093">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="411" key="GridCell.Tab.0.left/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591124480093" />
+    <state width="1238" height="245" key="GridCell.Tab.0.left/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586438899815" />
+    <state width="1259" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586310199927" />
+    <state width="1398" height="411" key="GridCell.Tab.0.right" timestamp="1591124480094">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="411" key="GridCell.Tab.0.right/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591124480094" />
+    <state width="1238" height="245" key="GridCell.Tab.0.right/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586438899816" />
+    <state width="1259" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586310199928" />
+    <state width="717" height="756" key="GridCell.Tab.1.bottom" timestamp="1591124239318">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="717" height="756" key="GridCell.Tab.1.bottom/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591124239318" />
+    <state width="1238" height="245" key="GridCell.Tab.1.bottom/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586438899816" />
+    <state width="1259" height="245" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586310199929" />
+    <state width="717" height="756" key="GridCell.Tab.1.center" timestamp="1591124239318">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="717" height="756" key="GridCell.Tab.1.center/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591124239318" />
+    <state width="1238" height="245" key="GridCell.Tab.1.center/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586438899816" />
+    <state width="1259" height="245" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1586310199928" />
+    <state width="717" height="756" key="GridCell.Tab.1.left" timestamp="1591124239317">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="717" height="756" key="GridCell.Tab.1.left/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591124239317" />
+    <state width="1238" height="245" key="GridCell.Tab.1.left/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586438899816" />
+    <state width="1259" height="245" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1586310199928" />
+    <state width="717" height="756" key="GridCell.Tab.1.right" timestamp="1591124239318">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="717" height="756" key="GridCell.Tab.1.right/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591124239318" />
+    <state width="1238" height="245" key="GridCell.Tab.1.right/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586438899816" />
+    <state width="1259" height="245" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1586310199928" />
+    <state x="141" y="50" key="SettingsEditor" timestamp="1586275298325">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="141" y="50" key="SettingsEditor/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586275298325" />
+    <state x="357" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1590950113456">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="357" y="272" key="com.intellij.ide.util.TipDialog/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1590950113456" />
+    <state x="317" y="244" key="com.intellij.ide.util.TipDialog/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586351394403" />
+    <state x="280" y="204" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591124119061">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="280" y="204" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591124119061" />
+    <state x="343" y="137" width="754" height="764" key="search.everywhere.popup" timestamp="1591038750083">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="343" y="137" width="754" height="764" key="search.everywhere.popup/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591038750083" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586353928792" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic/practice01.py</url>
+          <line>142</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic/zfc_struc_exc.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/django/part1/Part10_Simple_Game.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/django/part1/Part10_Simple_Game.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/django/part2/CardGame_War.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/django/part2/CardGame_War.py</url>
+          <line>160</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/django/part2/CardGame_War.py</url>
+          <line>166</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/django/part2/CardGame_War.py</url>
+          <line>187</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/django/part2/CardGame_War.py</url>
+          <line>188</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/django/part2/CardGame_War.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/django/part2/CardGame_War.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/django/part2/CardGame_War.py</url>
+          <line>169</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/django/part2/CardGame_War.py</url>
+          <line>184</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/django/part2/CardGame_War.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="type(t)" language="Python" />
+        <watch expression="type(target[0])" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
