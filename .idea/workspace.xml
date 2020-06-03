@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d126c94c-6271-43b2-bada-607922173e91" name="Default Changelist" comment="" />
+    <list default="true" id="d126c94c-6271-43b2-bada-607922173e91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/django/part2/NameAndMain/one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/part2/NameAndMain/two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/part2/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/part2/error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/part2/mymodule2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/part2/myprogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/part2/regular.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/part2/simple.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aDcmo7qUsknw8We7AW3SmkA3BC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,8 +40,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.CardGame_War">
-    <configuration name="CardGame_War" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.two">
+    <configuration name="decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pictonary" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/part2/CardGame_War.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/part2/decorators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -46,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oop1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="myprogram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pictonary" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/part2/oop1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/part2/myprogram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oop2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pictonary" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django/part2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django/part2/NameAndMain" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/part2/oop2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/part2/NameAndMain/one.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scope" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="regular" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pictonary" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/part2/scope.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/part2/regular.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="two" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pictonary" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django/part2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django/part2/NameAndMain" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/part2/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django/part2/NameAndMain/two.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.CardGame_War" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.oop2" />
-        <item itemvalue="Python.oop1" />
-        <item itemvalue="Python.scope" />
+        <item itemvalue="Python.two" />
+        <item itemvalue="Python.one" />
+        <item itemvalue="Python.decorators" />
+        <item itemvalue="Python.myprogram" />
+        <item itemvalue="Python.regular" />
       </list>
     </recent_temporary>
   </component>
@@ -162,52 +178,52 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1180" height="466" key="DebuggerActiveHint/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591122887201" />
-    <state width="1398" height="411" key="GridCell.Tab.0.bottom" timestamp="1591124480094">
+    <state width="1398" height="194" key="GridCell.Tab.0.bottom" timestamp="1591134539423">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="411" key="GridCell.Tab.0.bottom/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591124480094" />
+    <state width="1398" height="194" key="GridCell.Tab.0.bottom/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591134539423" />
     <state width="1238" height="245" key="GridCell.Tab.0.bottom/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586438899816" />
     <state width="1259" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586310199928" />
-    <state width="1398" height="411" key="GridCell.Tab.0.center" timestamp="1591124480093">
+    <state width="1398" height="194" key="GridCell.Tab.0.center" timestamp="1591134539422">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="411" key="GridCell.Tab.0.center/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591124480093" />
+    <state width="1398" height="194" key="GridCell.Tab.0.center/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591134539422" />
     <state width="1238" height="245" key="GridCell.Tab.0.center/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586438899815" />
     <state width="1259" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586310199927" />
-    <state width="1398" height="411" key="GridCell.Tab.0.left" timestamp="1591124480093">
+    <state width="1398" height="194" key="GridCell.Tab.0.left" timestamp="1591134539422">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="411" key="GridCell.Tab.0.left/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591124480093" />
+    <state width="1398" height="194" key="GridCell.Tab.0.left/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591134539422" />
     <state width="1238" height="245" key="GridCell.Tab.0.left/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586438899815" />
     <state width="1259" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586310199927" />
-    <state width="1398" height="411" key="GridCell.Tab.0.right" timestamp="1591124480094">
+    <state width="1398" height="194" key="GridCell.Tab.0.right" timestamp="1591134539423">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="411" key="GridCell.Tab.0.right/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591124480094" />
+    <state width="1398" height="194" key="GridCell.Tab.0.right/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591134539423" />
     <state width="1238" height="245" key="GridCell.Tab.0.right/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586438899816" />
     <state width="1259" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586310199928" />
-    <state width="717" height="756" key="GridCell.Tab.1.bottom" timestamp="1591124239318">
+    <state width="717" height="756" key="GridCell.Tab.1.bottom" timestamp="1591125955327">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="717" height="756" key="GridCell.Tab.1.bottom/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591124239318" />
+    <state width="717" height="756" key="GridCell.Tab.1.bottom/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591125955327" />
     <state width="1238" height="245" key="GridCell.Tab.1.bottom/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586438899816" />
     <state width="1259" height="245" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586310199929" />
-    <state width="717" height="756" key="GridCell.Tab.1.center" timestamp="1591124239318">
+    <state width="717" height="756" key="GridCell.Tab.1.center" timestamp="1591125955327">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="717" height="756" key="GridCell.Tab.1.center/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591124239318" />
+    <state width="717" height="756" key="GridCell.Tab.1.center/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591125955327" />
     <state width="1238" height="245" key="GridCell.Tab.1.center/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586438899816" />
     <state width="1259" height="245" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1586310199928" />
-    <state width="717" height="756" key="GridCell.Tab.1.left" timestamp="1591124239317">
+    <state width="717" height="756" key="GridCell.Tab.1.left" timestamp="1591125955327">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="717" height="756" key="GridCell.Tab.1.left/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591124239317" />
+    <state width="717" height="756" key="GridCell.Tab.1.left/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591125955327" />
     <state width="1238" height="245" key="GridCell.Tab.1.left/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586438899816" />
     <state width="1259" height="245" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1586310199928" />
-    <state width="717" height="756" key="GridCell.Tab.1.right" timestamp="1591124239318">
+    <state width="717" height="756" key="GridCell.Tab.1.right" timestamp="1591125955327">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="717" height="756" key="GridCell.Tab.1.right/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591124239318" />
+    <state width="717" height="756" key="GridCell.Tab.1.right/-2560.-234.2560.1417/0.23.1440.877@0.23.1440.877" timestamp="1591125955327" />
     <state width="1238" height="245" key="GridCell.Tab.1.right/-2560.-96.2560.1417/0.23.1280.777@0.23.1280.777" timestamp="1586438899816" />
     <state width="1259" height="245" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1586310199928" />
     <state x="141" y="50" key="SettingsEditor" timestamp="1586275298325">
@@ -301,6 +317,11 @@
           <url>file://$PROJECT_DIR$/django/part2/CardGame_War.py</url>
           <line>134</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/django/part2/error.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
